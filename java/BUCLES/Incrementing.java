@@ -1,5 +1,5 @@
 
-package com.mycompany.javacourse.BUCLES;
+package BUCLES;
 
 /* Ejercicio: Imprimir num de 1 al 100, incrementando de a 3 num.
  

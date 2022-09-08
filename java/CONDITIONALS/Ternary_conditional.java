@@ -1,5 +1,5 @@
 
-package com.mycompany.javacourse.CONDITIONALS;
+package CONDITIONALS;
 
 /**
  *

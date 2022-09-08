@@ -1,5 +1,5 @@
 
-package com.mycompany.javacourse.BUCLES;
+package BUCLES;
 
 import java.util.Scanner;
 

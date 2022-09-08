@@ -1,4 +1,4 @@
-package com.mycompany.javacourse.CONCEPTS;
+package CONCEPTS;
 
 
 

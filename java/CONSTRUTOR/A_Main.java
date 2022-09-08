@@ -1,4 +1,4 @@
-package com.mycompany.javacourse.CONSTRUTOR;
+package CONSTRUTOR;
 /* Java Constructors
 
 A constructor in Java is a special method that is used to initialize objects.

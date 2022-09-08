@@ -1,6 +1,4 @@
-/*
- */
-package com.mycompany.javacourse.METODOS;
+
 
 public class practica1 { //Every code must be in a class
     //Creacion de un Metodo o Funcion

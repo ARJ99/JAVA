@@ -13,6 +13,8 @@ Inicializar un repositorio:
 8- git remote add origin https://github.com/proyecto...  : Relaciona tu repo con github.
 8-git push -u origing main : Envias al tu repo ubicado en la rama main tus archivos y cambios.
 
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
 Eliminar archivos de un repositorio:
 
 1- git rm --cached file_name : Borra el file del repo local y del staging. Pero lo mantiene en el disco como untrucked.
@@ -21,8 +23,9 @@ Eliminar archivos de un repositorio:
 Luego:
 3- git commit - m" Mensaje que explique por que borro"
 4- git push or git push origin branch : Para enviar cambios al repositorio remoto. 
-   
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------  
 Comandos utiles:
+
 1- git add . :Pasa los archivos al staging.
 2- git reset . : Borrar los archivos del staging.
 

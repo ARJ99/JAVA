@@ -1,4 +1,4 @@
-package com.mycompany.javacourse.CONDITIONALS;
+package CONDITIONALS;
 
 import javax.swing.JOptionPane;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.mycompany.javacourse.OOP;
+package OOP;
 
 /*
 - Java Modifiers
@@ -34,7 +34,7 @@ For classes, you can use either final or abstract:
 
 *final :	The class cannot be inherited by other classes 
 *abstract :	The class cannot be used to create objects 
-(To access an abstract class, it must be inherited from another class.)
+(To access an abstract class, it must be inherited from another class.)-You can't access directly, it must be inherited.
 
 For attributes and methods, you can use the one of the following:
 

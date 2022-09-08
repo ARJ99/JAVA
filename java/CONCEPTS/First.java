@@ -1,5 +1,5 @@
 
-package javacourse;
+package CONCEPTS;
 
 /**
  * @author alejo

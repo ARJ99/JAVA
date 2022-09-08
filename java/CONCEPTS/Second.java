@@ -5,7 +5,7 @@ TO CREATE AN OBJECT
         3-New keyword 
         4-type the classname();
 */
-package javacourse;
+package CONCEPTS;
 
 public class Second {
     

@@ -1,5 +1,5 @@
 
-package com.mycompany.javacourse.CONSTRUTOR;
+package CONSTRUTOR;
 
 /*
   CONSTRUCTORS WITH PARAMETERS
